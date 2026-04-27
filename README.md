@@ -5,7 +5,7 @@
 
 ---
 
-### $ whoami
+### $ qih
 > "A ghost in the machine, building things you'll never see."
 
 - 🔭 *Status:* Active
