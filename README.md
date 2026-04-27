@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <code>[SYSTEM FAILURE: ACCESS GRANTED]</code><br>
+  
+</p>
 
-<!--
-**faqih211104/faqih211104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### $ whoami
+> "A ghost in the machine, building things you'll never see."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 *Status:* Active
+- ⚡ *Last Commit:* Hidden
+- 🌑 *Mode:* Dark
+
+<p align="center">
+<img src="https://vercel.app" alt="Stats" />
+</p>
